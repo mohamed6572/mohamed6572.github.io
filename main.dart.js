@@ -92723,33 +92723,34 @@ $2(a,b){var s=null,r=4292930035
 return b instanceof A.B0&&this.a.y.length!==0?A.ap(A.Sy(new A.m(r),A.aR(s,s,B.i,new A.m(r),s,s,500,s,s,1/0),new A.m(4278228424)),500,1/0):new A.nP(A.bR(A.a([A.a4E("My Certificate"),A.ap(s,40,s),new A.LO(s)],t.p),B.u,B.y,B.o),10,!1,s)},
 $S:64}
 A.uq.prototype={
-F(a0){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=4280822078,f=4294967295,e=4294864472,d=4278228424,c=t.w,b=A.ah(a0,B.n,c).w.a.a,a=t.C
-A.bk(a0,a)
+F(a1){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=4280822078,e=4294967295,d=4294864472,c=4278228424,b=t.w,a=A.ah(a1,B.n,b).w.a.a,a0=t.C
+A.bk(a1,a0)
 s=$.ay
-r=s?new A.m(g):h
-if(b<700){s=s?new A.m(g):new A.m(4294638330)
+r=s?new A.m(f):g
+if(a<700){s=s?new A.m(f):new A.m(4294638330)
 q=t.p
-p=A.a([A.jx(h,A.dp(B.dh,h,h,h),h,new A.a6H(a0),h,h)],q)
-if(A.bk(a0,a).Q!=null){o=$.ay?A.bk(a0,a).Q.db:A.bk(a0,a).Q.cy
-o=A.hQ(o,B.E,new A.a6I(),h,40,h)}else o=A.aR(h,h,B.i,h,h,h,h,h,h,h)
-s=A.yY(p,s,0,A.ck(A.a([A.jx(h,A.dp(B.fM,$.ay?new A.m(f):new A.m(4283283442),h,h),h,new A.a6J(i),h,h)],q),B.u,B.y,B.o),o)}else s=new A.MM(i.c,a0,h)
-q=b<750
+p=A.a([A.jx(g,A.dp(B.dh,g,g,g),g,new A.a6H(a1),g,g)],q)
+if(A.bk(a1,a0).Q!=null){o=$.ay?A.bk(a1,a0).Q.db:A.bk(a1,a0).Q.cy
+o=A.hQ(o,B.E,new A.a6I(),g,40,g)}else o=A.aR(g,g,B.i,g,g,g,g,g,g,g)
+s=A.yY(p,s,0,A.ck(A.a([A.jx(g,A.dp(B.fM,$.ay?new A.m(e):new A.m(4283283442),g,g),g,new A.a6J(h),g,g)],q),B.u,B.y,B.o),o)}else s=new A.MM(h.c,a1,g)
+q=a<750
 p=q?10:16
 o=$.ay
-n=A.aR(h,h,B.i,o?new A.m(e):new A.m(d),h,h,2,h,h,30)
-m=A.ap(h,h,8)
+n=A.aR(g,g,B.i,o?new A.m(d):new A.m(c),g,g,2,g,g,30)
+m=A.ap(g,g,8)
 l=t.p
-m=A.ck(A.a([n,m,A.bo("Say Hello \ud83d\udc4b",h,h,h,h,A.b9(h,h,o?new A.m(e):new A.m(d),h,h,h,h,h,h,h,h,18,h,h,h,h,h,!0,h,h,h,h,h,h,h,h),h,h)],l),B.u,B.y,B.o)
-n=A.ap(h,16,h)
+m=A.ck(A.a([n,m,A.bo("Say Hello \ud83d\udc4b",g,g,g,g,A.b9(g,g,o?new A.m(d):new A.m(c),g,g,g,g,g,g,g,g,18,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g)],l),B.u,B.y,B.o)
+n=A.ap(g,16,g)
 o=q?20:32
-o=A.bo("Let's Work Together.",h,h,h,h,A.b9(h,h,$.ay?new A.m(f):h,h,h,h,h,h,h,h,h,o,h,h,B.a9,h,h,!0,h,h,h,h,h,h,h,h),h,h)
-k=A.ap(h,16,h)
-j=q?"Please contact us so that I can help you and build your project. Contact us and inform us of the details.":"Please contact us so that I can help you and build\n your project. Contact us and inform us of the\n details."
-p=A.a([new A.bQ(new A.ac(p,p,p,p),A.bR(A.a([m,n,o,k,A.aR(h,A.bo(j,h,h,h,h,A.b9(h,h,B.dc,h,h,h,h,h,h,h,h,q?14:16,h,h,h,h,h,!0,h,h,h,h,h,h,h,h),B.aW,h),B.i,h,h,h,h,h,h,b-50)],l),B.aO,B.y,B.o),h)],l)
-if(A.ah(a0,B.n,c).w.a.a>825){c=B.c.c1(A.ah(a0,B.n,c).w.a.a*0.2,340,380)
-p.push(A.aR(h,A.hQ($.ay?A.bk(a0,a).Q.dx:A.bk(a0,a).Q.cx,B.dM,h,B.mg,h,h),B.i,h,h,h,c,h,h,h))}c=A.ck(p,B.u,B.hf,B.o)
-a=$.aD()
-return A.DY(s,r,new A.bQ(new A.ac(15,15,15,15),A.aUv(A.bR(A.a([c,new A.Mt(new A.wT(B.i2,a),new A.wT(B.i2,a),new A.wT(B.i2,a),h)],l),B.u,B.y,B.o),h,B.W,h,h,B.ab),h),new A.uy(i.c,!0,h),i.d)}}
+o=A.bo("Let's Work Together.",g,g,g,g,A.b9(g,g,$.ay?new A.m(e):g,g,g,g,g,g,g,g,g,o,g,g,B.a9,g,g,!0,g,g,g,g,g,g,g,g),g,g)
+k=A.ap(g,16,g)
+j=q?a-50:g
+i=q?"Please contact us so that I can help you and build your project. Contact us and inform us of the details.":"Please contact us so that I can help you and build\n your project. Contact us and inform us of the\n details."
+p=A.a([new A.bQ(new A.ac(p,p,p,p),A.bR(A.a([m,n,o,k,A.aR(g,A.bo(i,g,g,g,g,A.b9(g,g,B.dc,g,g,g,g,g,g,g,g,q?14:16,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),B.aW,g),B.i,g,g,g,g,g,g,j)],l),B.aO,B.y,B.o),g)],l)
+if(A.ah(a1,B.n,b).w.a.a>825){b=B.c.c1(A.ah(a1,B.n,b).w.a.a*0.2,340,380)
+p.push(A.aR(g,A.hQ($.ay?A.bk(a1,a0).Q.dx:A.bk(a1,a0).Q.cx,B.dM,g,B.mg,g,g),B.i,g,g,g,b,g,g,g))}b=A.ck(p,B.u,B.hf,B.o)
+a0=$.aD()
+return A.DY(s,r,new A.bQ(new A.ac(15,15,15,15),A.aUv(A.bR(A.a([b,new A.Mt(new A.wT(B.i2,a0),new A.wT(B.i2,a0),new A.wT(B.i2,a0),g)],l),B.u,B.y,B.o),g,B.W,g,g,B.ab),g),new A.uy(h.c,!0,g),h.d)}}
 A.a6H.prototype={
 $0(){A.bk(this.a,t.C).qT()},
 $S:0}
