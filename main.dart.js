@@ -27753,47 +27753,47 @@ axt(a,b,c,d,e){var s=null,r=4294375415,q=A.An(s,s,d,s,s,s,s,s,s,s,s,s,s,s,s,s,s,
 return A.a9k(!1,A.ck(A.a([A.dp(c,new A.m(r),s,s),A.ap(s,s,5),A.bo(b,s,s,s,s,A.b9(s,s,new A.m(r),s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.p),B.u,B.y,B.o),B.i,s,s,s,s,s,new A.axu(b,a),s,q)},
 axu:function axu(a,b){this.a=a
 this.b=b},
-aZt(a,b){var s,r,q=null,p=4294864472,o="Montserrat",n=4278228424,m=t.C,l=A.bk(a,m),k=A.bo("Mobile Application",q,q,q,q,A.b9(q,q,$.ay?new A.m(p):new A.m(n),q,q,q,q,q,q,q,q,16,q,q,q,q,q,!0,q,2,q,q,q,q,q,q),q,q),j=A.ap(q,10,q),i=A.bk(a,m).z,h=A.b9(q,q,B.k,q,q,q,q,q,o,q,q,A.axZ(a,32),q,q,B.a9,q,q,!0,q,q,q,q,q,q,q,q),g=t.u6
-i=A.an4(A.a4w(A.a([A.amK("Hi there! I'm\nMohamed Hany",A.cg(0,100,0),h)],g),!1),i)
-m=A.bk(a,m).z
-h=A.b9(q,q,B.m,q,q,q,q,q,o,q,q,A.axZ(a,32),q,q,B.a9,q,q,!0,q,q,q,q,q,q,q,q)
-m=A.an4(A.a4w(A.a([A.amK("Hello My name is\nMohamed Hany",A.cg(0,100,0),h)],g),!1),!m)
-g=A.ap(q,10,q)
-h=A.bo(u.b,q,q,q,q,A.b9(q,q,B.cQ,q,q,q,q,q,o,q,q,18,q,q,B.cH,q,q,!0,q,q,q,q,q,q,q,q),q,q)
+aZt(a,b){var s,r,q=null,p=4294864472,o="Hi there! I'm\nMohamed Hany",n="Montserrat",m=4278228424,l=t.C,k=A.bk(a,l),j=A.bo("Mobile Application",q,q,q,q,A.b9(q,q,$.ay?new A.m(p):new A.m(m),q,q,q,q,q,q,q,q,16,q,q,q,q,q,!0,q,2,q,q,q,q,q,q),q,q),i=A.ap(q,10,q),h=A.bk(a,l).z,g=A.b9(q,q,B.k,q,q,q,q,q,n,q,q,A.axZ(a,32),q,q,B.a9,q,q,!0,q,q,q,q,q,q,q,q),f=t.u6
+h=A.an4(A.a4w(A.a([A.amK(o,A.cg(0,100,0),g)],f),!1),h)
+l=A.bk(a,l).z
+g=A.b9(q,q,B.m,q,q,q,q,q,n,q,q,A.axZ(a,32),q,q,B.a9,q,q,!0,q,q,q,q,q,q,q,q)
+l=A.an4(A.a4w(A.a([A.amK(o,A.cg(0,100,0),g)],f),!1),!l)
+f=A.ap(q,10,q)
+g=A.bo(u.b,q,q,q,q,A.b9(q,q,B.cQ,q,q,q,q,q,n,q,q,18,q,q,B.cH,q,q,!0,q,q,q,q,q,q,q,q),q,q)
 s=A.ap(q,20,q)
 r=t.p
-s=A.bR(A.a([k,j,i,m,g,h,s,A.ck(A.a([A.axt(a,"Contact Me",B.od,$.ay?new A.m(p):new A.m(n),b),A.ap(q,q,10),A.axt(a,"Download",B.jE,B.m,b)],r),B.u,B.y,B.o),A.ap(q,20,q),new A.EK(q)],r),B.aO,B.y,B.o)
-m=$.ay
-k=l.Q
-if(m)m=A.f(k==null?q:k.x)
-else m=A.f(k==null?q:k.w)
-m=A.hQ(m,B.E,new A.axv(),q,300,350)
-j=k==null
-i=A.abZ(q,B.Ir,0,q,A.f(j?q:k.ch),"Years Of Experience",60)
-return A.ck(A.a([s,A.aP(q,A.i9(B.E,A.a([m,i,A.abZ(80,B.oi,q,0,A.f(j?q:k.as),"Finished Projects",q)],r),B.J,B.b5),B.i,q,q,q,350,q,q,600)],r),B.u,B.dm,B.o)},
+s=A.bR(A.a([j,i,h,l,f,g,s,A.ck(A.a([A.axt(a,"Contact Me",B.od,$.ay?new A.m(p):new A.m(m),b),A.ap(q,q,10),A.axt(a,"Download",B.jE,B.m,b)],r),B.u,B.y,B.o),A.ap(q,20,q),new A.EK(q)],r),B.aO,B.y,B.o)
+l=$.ay
+j=k.Q
+if(l)l=A.f(j==null?q:j.x)
+else l=A.f(j==null?q:j.w)
+l=A.hQ(l,B.E,new A.axv(),q,300,350)
+i=j==null
+h=A.abZ(q,B.Ir,0,q,A.f(i?q:j.ch),"Years Of Experience",60)
+return A.ck(A.a([s,A.aP(q,A.i9(B.E,A.a([l,h,A.abZ(80,B.oi,q,0,A.f(i?q:j.as),"Finished Projects",q)],r),B.J,B.b5),B.i,q,q,q,350,q,q,600)],r),B.u,B.dm,B.o)},
 axv:function axv(){},
-aZu(a,b){var s,r,q,p,o,n=null,m=4294864472,l="Montserrat",k=4278228424,j=t.C,i=A.bk(a,j),h=A.ag(a,B.n,t.w).w,g=A.bo("Mobile Application",n,n,n,n,A.b9(n,n,$.ay?new A.m(m):new A.m(k),n,n,n,n,n,n,n,n,16,n,n,n,n,n,!0,n,2,n,n,n,n,n,n),n,n),f=A.ap(n,10,n),e=A.bk(a,j).z,d=A.b9(n,n,B.k,n,n,n,n,n,l,n,n,A.axZ(a,32),n,n,B.a9,n,n,!0,n,n,n,n,n,n,n,n),c=t.u6
-e=A.an4(A.a4w(A.a([A.amK("Hi there! I'm\nMohamed Hany",A.cg(0,100,0),d)],c),!1),e)
-j=A.bk(a,j).z
-d=A.b9(n,n,B.m,n,n,n,n,n,l,n,n,A.axZ(a,32),n,n,B.a9,n,n,!0,n,n,n,n,n,n,n,n)
-j=A.an4(A.a4w(A.a([A.amK("Hello My name is\nMohamed Hany",A.cg(0,100,0),d)],c),!1),!j)
-c=A.ap(n,10,n)
-d=A.bo(u.b,n,n,n,n,A.b9(n,n,B.cQ,n,n,n,n,n,l,n,n,18,n,n,B.cH,n,n,!0,n,n,n,n,n,n,n,n),B.c7,n)
+aZu(a,a0){var s,r,q,p,o,n=null,m=4294864472,l="Hi there! I'm\nMohamed Hany",k="Montserrat",j=4278228424,i=t.C,h=A.bk(a,i),g=A.ag(a,B.n,t.w).w,f=A.bo("Mobile Application",n,n,n,n,A.b9(n,n,$.ay?new A.m(m):new A.m(j),n,n,n,n,n,n,n,n,16,n,n,n,n,n,!0,n,2,n,n,n,n,n,n),n,n),e=A.ap(n,10,n),d=A.bk(a,i).z,c=A.b9(n,n,B.k,n,n,n,n,n,k,n,n,A.axZ(a,32),n,n,B.a9,n,n,!0,n,n,n,n,n,n,n,n),b=t.u6
+d=A.an4(A.a4w(A.a([A.amK(l,A.cg(0,100,0),c)],b),!1),d)
+i=A.bk(a,i).z
+c=A.b9(n,n,B.m,n,n,n,n,n,k,n,n,A.axZ(a,32),n,n,B.a9,n,n,!0,n,n,n,n,n,n,n,n)
+i=A.an4(A.a4w(A.a([A.amK(l,A.cg(0,100,0),c)],b),!1),!i)
+b=A.ap(n,10,n)
+c=A.bo(u.b,n,n,n,n,A.b9(n,n,B.cQ,n,n,n,n,n,k,n,n,18,n,n,B.cH,n,n,!0,n,n,n,n,n,n,n,n),B.c7,n)
 s=A.ap(n,20,n)
 r=$.ay
-q=i.Q
+q=h.Q
 if(r)r=A.f(q==null?n:q.x)
 else r=A.f(q==null?n:q.w)
 r=A.hQ(r,B.E,new A.axw(),n,300,250)
-h=h.a.a<750?80:40
+g=g.a.a<750?80:40
 p=q==null
 o=p?n:q.ch
-h=A.abZ(n,B.Iq,0,n,o==null?"":o," Years Of Experience",h)
+g=A.abZ(n,B.Iq,0,n,o==null?"":o," Years Of Experience",g)
 q=p?n:q.as
 p=t.p
-q=A.aP(n,A.i9(B.E,A.a([r,h,A.abZ(30,B.oi,n,0,q==null?"":q," Finished Projects",n)],p),B.J,B.b5),B.i,n,n,n,280,n,n,500)
-h=A.ap(n,20,n)
-return A.bR(A.a([g,f,e,j,c,d,s,q,h,A.ck(A.a([A.axt(a,"Contact Me",B.od,$.ay?new A.m(m):new A.m(k),b),A.ap(n,n,10),A.axt(a,"Download",B.jE,B.m,b)],p),B.u,B.b9,B.o),A.ap(n,20,n),new A.EK(n)],p),B.u,B.y,B.o)},
+q=A.aP(n,A.i9(B.E,A.a([r,g,A.abZ(30,B.oi,n,0,q==null?"":q," Finished Projects",n)],p),B.J,B.b5),B.i,n,n,n,280,n,n,500)
+g=A.ap(n,20,n)
+return A.bR(A.a([f,e,d,i,b,c,s,q,g,A.ck(A.a([A.axt(a,"Contact Me",B.od,$.ay?new A.m(m):new A.m(j),a0),A.ap(n,n,10),A.axt(a,"Download",B.jE,B.m,a0)],p),B.u,B.b9,B.o),A.ap(n,20,n),new A.EK(n)],p),B.u,B.y,B.o)},
 axw:function axw(){},
 nP:function nP(a,b,c,d){var _=this
 _.c=a
